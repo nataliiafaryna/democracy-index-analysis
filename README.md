@@ -10,13 +10,13 @@ Instead of standard statistical analysis, this project uses machine learning to 
   - *K-Means Clustering* to group countries into 4 distinct macroeconomic systems.
 - **Interactive Dashboard:** A Plotly/Dash web application featuring interactive Choropleth maps and dynamic data filtering.
 
-## 🛠 Tech Stack
+##Tech Stack
 - **Language:** Python 3.x
 - **Data Processing:** `pandas`, `numpy`, `wbgapi`
 - **Machine Learning:** `scikit-learn` (KMeans, LinearRegression, StandardScaler)
 - **Visualization:** `matplotlib`, `seaborn`, `plotly`, `dash`
 
-Key Insights
+##Key Insights
 
 Corruption stifles growth: A 1-point improvement in the transparency index is mathematically associated with a ~$1,260 increase in GDP per capita.
 
